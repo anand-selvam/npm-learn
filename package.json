@@ -1,6 +1,7 @@
 {
 	"author": "anand selvam",
 	"name": "fcc-learn-npm-package-json",
+	"description": "npm learning project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
